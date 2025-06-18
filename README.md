@@ -1,3 +1,5 @@
+> Credit: This is a tryout for the learning I had in the udemy course [The Complete Agentic AI Engineering Course](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=ST18MT170625G1) and the example project from [github.com/ed-donner/agents](https://github.com/ed-donner/agents)
+
 ## Master AI Agentic Engineering -  build autonomous AI Agents
 
 ### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP
